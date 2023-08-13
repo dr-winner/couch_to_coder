@@ -1,4 +1,4 @@
-# ask user when was python crested (hint: 1991)
+# ask user when was python created (hint: 1991)
 # compare values, and if corrects, approve, if not ,don't approve
 
 # HINT: when input() -> it takes the input as a string
