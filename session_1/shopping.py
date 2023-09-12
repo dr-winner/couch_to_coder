@@ -4,9 +4,7 @@ shoe = "50"
 # 
 print("How much money do you have on you?")
 print("select one of these: Bag = Gh 54, Dress = Gh 60, Shoe = Gh 50:")
-# input()
-balance = input()
-# print("What do you want to buy?")
+# input()5
 # input()
 # cost_item = input()
 if balance == bag:
