@@ -6,7 +6,7 @@ pin = 1909
 print("Hello our cherished customer!")
 # Prompt user for pin input and allow access if correct, else deny
 
-while( number_)
+
 user_pin = int(input("Please enter your pin: ")) # Take input as an integer
 if user_pin == pin:
     # Display user's cash balance

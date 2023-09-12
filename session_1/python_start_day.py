@@ -7,6 +7,6 @@
 guess = input("When was python created: ")
 
 if guess == "1991":
-    print("Wooo! you are right")
+    print("Wooo! You are right")
 else:
     print("Try it again")

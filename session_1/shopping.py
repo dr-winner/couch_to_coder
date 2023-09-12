@@ -1,12 +1,11 @@
 bag = "54"
 dress = "60"
 shoe = "50"
-# 
+
+print("Welcome to our shop! Tell us your budget and we'll suggest what you can afford")
 print("How much money do you have on you?")
-print("select one of these: Bag = Gh 54, Dress = Gh 60, Shoe = Gh 50:")
-# input()5
-# input()
-# cost_item = input()
+balance = input("select one of these: Bag = Gh 54, Dress = Gh 60, Shoe = Gh 50:")
+
 if balance == bag:
     print("Please you can afford some nice bag dear!")
 elif balance == dress:
