@@ -4,7 +4,7 @@ pin = 1909
 user_pin = 0
 number_of_tries = 3
 
-# if(not user_pin.isdigit()):
+
 # Loop for the PIN entry attempts
 print("Hello our cherished customer!")
 while(number_of_tries > 0):
